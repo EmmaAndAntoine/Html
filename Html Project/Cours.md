@@ -25,7 +25,7 @@ Quelque soit le site, quelque soit le project, un scrypt Html se compose toujour
  
  # 1.2 Faire reconnaître au navigateur la typographie de la langue
  
- Pour éviter des problêmes de typopagrapie au niveau de la langue et surtout le monde des charactère unicode, les developpeurs ont créent
+ Pour éviter des problêmes de typopagrapie au niveau de la langue et surtout le monde des charactère unicode, les developpeurs ont créer
  une table qui se nomme la table ASCII ! C'est une table qui permet de convertir un character en 0 ou en 1. Ensuite, le compilateur se 
  charge de convertir les charactère ! Et bien en Html, c quasiment la même chose mais en différent. La balise n'est pas obligatoire
  mais permet de mieux convertir les charactères et éviter les erreurs ou les problème de signe ! Donc :
