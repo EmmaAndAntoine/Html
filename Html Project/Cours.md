@@ -29,12 +29,14 @@ Quelque soit le site, quelque soit le project, un scrypt Html se compose toujour
  une table qui se nomme la table ASCII ! C'est une table qui permet de convertir un character en 0 ou en 1. Ensuite, le compilateur se 
  charge de convertir les charactère ! Et bien en Html, c quasiment la même chose mais en différent. La balise n'est pas obligatoire
  mais permet de mieux convertir les charactères et éviter les erreurs ou les problème de signe ! Donc :
+ 
  . <Meta charset ="UTF-8> permet de dire au navigateur que la langue utuliser et le français.
  
  # 1.3 Balise d'écriture
  
  Pour écrire, crée des textes on utilise des balises comme <html></html> mais qui sont spécialement faites pour afficher du texte
  sur le navigateur !
+ 
  . "<h1></h1>" -> Cette balise permet de faire apparaître a l'écran un titre !
  . "<h2></h2>" -> "<h5></h5>" -> Cette balise permet de faire à l'écran un titre de plus en plus petit !
  . "<p></p>" -> Cette balise est très importante ! Elle permet de faire apparaître du texte à l'écran ! 
