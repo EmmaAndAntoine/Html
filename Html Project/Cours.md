@@ -24,4 +24,10 @@ Quelque soit le site, quelque soit le project, un scrypt Html se compose toujour
  l'extansion .htm qui permet de faire reconnaitre au navigateur qu'il s'agit d'un scrypt html !
  
  # 1.2 Faire reconnaître au navigateur la typographie de la langue
+ 
+ Pour éviter des problêmes de typopagrapie au niveau de la langue et surtout le monde des charactère unicode, les developpeurs ont créent
+ une table qui se nomme la table ASCII ! C'est une table qui permet de convertir un character en 0 ou en 1. Ensuite, le compilateur se 
+ charge de convertir les charactère ! Et bien en Html, c quasiment la même chose mais en différent. La balise n'est pas obligatoire
+ mais permet de mieux convertir les charactères et éviter les erreurs ou les problème de signe ! Donc :
+ . <Meta charset ="UTF-8> permet de dire au navigateur que la langue utuliser et le français.
 
