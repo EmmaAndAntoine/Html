@@ -20,5 +20,6 @@ Quelque soit le site, quelque soit le project, un scrypt Html se compose toujour
 . <Title></Title>
 . <Body></Body> -> Cette balise permet de déclarer le corps du scrypt donc les composants visibles sur le site !
  
- Ces constituants sont obligatoire pour le bon fonctionnement du scrypt ! 
+ Ces constituants sont obligatoire pour le bon fonctionnement du scrypt ! Il ne faut bien sur pas oublier de nommer le scrypt avec
+ l'extansion .htm qui permet de faire reconnaitre au navigateur qu'il s'agit d'un scrypt html !
 
