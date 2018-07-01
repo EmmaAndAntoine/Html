@@ -15,6 +15,7 @@ Ce langage permet de structurer ses composants grâce a des tableaux et surtout 
 # 1.1 : Les Constituants
 
 Quelque soit le site, quelque soit le project, un scrypt Html se compose toujours de :
+
 . <Doctype Html!> -> Cette balise indique que le scrypt sera en Html ! Elle se referme comme ca : </html>
 . <Head></Head> -> Cette balise permet de déclarer la tête du scrypt !
 . <Title></Title>
@@ -30,16 +31,17 @@ Quelque soit le site, quelque soit le project, un scrypt Html se compose toujour
  charge de convertir les charactère ! Et bien en Html, c quasiment la même chose mais en différent. La balise n'est pas obligatoire
  mais permet de mieux convertir les charactères et éviter les erreurs ou les problème de signe ! Donc :
  
- . <Meta charset ="UTF-8> permet de dire au navigateur que la langue utuliser et le français.
+ . <Meta charset ="UTF-8> permet de dire au navigateur que la langue utiliser et le français.
  
  # 1.3 Balise d'écriture
  
  Pour écrire, crée des textes on utilise des balises comme <html></html> mais qui sont spécialement faites pour afficher du texte
  sur le navigateur !
  
- . "<h1></h1>" -> Cette balise permet de faire apparaître a l'écran un titre !
- . "<h2></h2>" -> "<h5></h5>" -> Cette balise permet de faire à l'écran un titre de plus en plus petit !
- . "<p></p>" -> Cette balise est très importante ! Elle permet de faire apparaître du texte à l'écran ! 
+. <h1> -> Cette balise indique que le scrypt sera en Html ! Elle se referme comme ca : </html>
+. <Head></Head> -> Cette balise permet de déclarer la tête du scrypt !
+. <Title></Title>
+. <Body></Body> -> Cette balise permet de déclarer le corps du scrypt donc les composants visibles sur le site !
  
  #1.4
  
