@@ -22,4 +22,6 @@ Quelque soit le site, quelque soit le project, un scrypt Html se compose toujour
  
  Ces constituants sont obligatoire pour le bon fonctionnement du scrypt ! Il ne faut bien sur pas oublier de nommer le scrypt avec
  l'extansion .htm qui permet de faire reconnaitre au navigateur qu'il s'agit d'un scrypt html !
+ 
+ # 1.2 Faire reconnaître au navigateur la typographie de la langue
 
