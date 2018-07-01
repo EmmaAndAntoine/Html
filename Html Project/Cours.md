@@ -39,6 +39,8 @@ Quelque soit le site, quelque soit le project, un scrypt Html se compose toujour
  . <h2></h2> -> <h5></h5> -> Cette balise permet de faire à l'écran un titre de plus en plus petit !
  . <p></p> -> Cette balise est très importante ! Elle permet de faire apparaître du texte à l'écran ! 
  
+ #1.4
+ 
  
  
  
