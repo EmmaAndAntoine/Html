@@ -35,15 +35,9 @@ Quelque soit le site, quelque soit le project, un scrypt Html se compose toujour
  
  # 1.3 Balise d'écriture
  
- Pour écrire, crée des textes on utilise des balises comme <html></html> mais qui sont spécialement faites pour afficher du texte
- sur le navigateur !
+
  
-. <h1> -> Cette balise indique que le scrypt sera en Html ! Elle se referme comme ca : </html>
-. <Head></Head> -> Cette balise permet de déclarer la tête du scrypt !
-. <Title></Title>
-. <Body></Body> -> Cette balise permet de déclarer le corps du scrypt donc les composants visibles sur le site !
  
- #1.4
  
  
  
