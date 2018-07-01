@@ -35,9 +35,9 @@ Quelque soit le site, quelque soit le project, un scrypt Html se compose toujour
  
  Pour écrire, crée des textes on utilise des balises comme <html></html> mais qui sont spécialement faites pour afficher du texte
  sur le navigateur !
- . <h1></h1> -> Cette balise permet de faire apparaître a l'écran un titre !
- . <h2></h2> -> <h5></h5> -> Cette balise permet de faire à l'écran un titre de plus en plus petit !
- . <p></p> -> Cette balise est très importante ! Elle permet de faire apparaître du texte à l'écran ! 
+ . "<h1></h1>" -> Cette balise permet de faire apparaître a l'écran un titre !
+ . "<h2></h2>" -> "<h5></h5>" -> Cette balise permet de faire à l'écran un titre de plus en plus petit !
+ . "<p></p>" -> Cette balise est très importante ! Elle permet de faire apparaître du texte à l'écran ! 
  
  #1.4
  
