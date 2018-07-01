@@ -6,4 +6,6 @@ Donc le : Site_Example_3 est l'endroit, le repository ou se trouve et se trouver
 Précision en html, les commentaires se font comme ca : <!--- -->
 En C++, C et autres ils se font comme ca : // 
 
+Sur le dossier Html tu as un cours qui est prêt ! Bon codage !!
+
 
