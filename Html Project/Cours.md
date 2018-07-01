@@ -1,9 +1,11 @@
-# Site_Example_3
-Donc hello, tu est sur la page d'acceuil de notre projet tu peux voir tout ce qu'on fait !!
+# Espace de Cours 1.0
 
-Donc le : Site_Example_3 est l'endroit, le repository ou se trouve et se trouverons nos different projet !! 
+Bienvenue dans ton espace de cours ! C'est un espace que je t'ai créer pour que tu apprennes sans que je sois la ! Bien évidemment, on 
+pourra en discuter plus tard ! Soit indulgente, je vais essayer d'être le plus clair possible ! Tous les jours, je mettrai la page
+a jour avec de nouvelles choses ! Bon codage !
 
-Précision en html, les commentaires se font comme ca : <!--- -->
-En C++, C et autres ils se font comme ca : // 
+// Attention ce cours n'est fait que pour le Html !
 
+# 1.0 : Le Html
 
+Le html
