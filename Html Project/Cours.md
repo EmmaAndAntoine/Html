@@ -68,7 +68,7 @@ Quelque soit le site, quelque soit le project, un scrypt Html se compose toujour
  
  . "br" -> Cette balise oblige un retour à la ligne (Exemple dans prototype.htm).
  
- <h1> 1.3.1 Faire une liste<h1/>
+ <h1> 1.3.1 Faire une liste</h1>
  
  Il est possible de réaliser une liste avec plusieurs point et cela avec deux balises (Exemple dans prototype.htm) :
  
