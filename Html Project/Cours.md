@@ -78,20 +78,10 @@ pour le style (les exemples sont dans prototype.htm) :
 
 . "en"-> Cette balise permet de mettre un texte en italique.
 
-. "mark" -> Cette balise permet de surligner un texte en gras.
+. "mark" -> Cette balise permet de surligner un texte en jaune.
 
- 
- 
- 
-
- 
+. 
  
  
  
  
- 
- 
- 
- 
- 
-
