@@ -16,13 +16,13 @@ Ce langage permet de structurer ses composants grâce a des tableaux et surtout 
 
 Quelque soit le site, quelque soit le project, un scrypt Html se compose toujours de :
 
-. <Doctype Html!> -> Cette balise indique que le scrypt sera en Html ! 
+. "<Doctype Html!>" -> Cette balise indique que le scrypt sera en Html ! 
 
-. <Head></Head> -> Cette balise permet de déclarer la tête du scrypt !
+. "<Head></Head>" -> Cette balise permet de déclarer la tête du scrypt !
 
 . "<Title></Title>" -> Ce balise permet de définir le titre de la page !
 
-. <Body></Body> -> Cette balise permet de déclarer le corps du scrypt donc les composants visibles sur le site !
+. "<Body></Body>" -> Cette balise permet de déclarer le corps du scrypt donc les composants visibles sur le site !
  
  Ces constituants sont obligatoire pour le bon fonctionnement du scrypt ! Il ne faut bien sur pas oublier de nommer le scrypt avec
  l'extansion .htm qui permet de faire reconnaitre au navigateur qu'il s'agit d'un scrypt html !
