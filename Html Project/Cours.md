@@ -6,9 +6,7 @@ a jour avec de nouvelles choses ! Bon codage !
 
 // Attention ce cours n'est fait que pour le Html !
 
-# 0.1
-
-Légendes du cours :
+# 0.1 Légendes du cours 
 
 Quand tu vois ca : "" ->  Il n'y a pas de chevron pour éviter certaines
 erreurs mais elle doivent obligatoirement lors de l'écriture d'un scrypt avoir des chevron.
