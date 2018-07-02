@@ -68,7 +68,7 @@ Quelque soit le site, quelque soit le project, un scrypt Html se compose toujour
  
  . "br" -> Cette balise oblige un retour à la ligne (Exemple dans prototype.htm).
  
- #1.4 Le Style en Html
+<h1>Le Style en Html</h1>
 
  
  
