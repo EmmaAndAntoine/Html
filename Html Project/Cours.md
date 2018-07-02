@@ -104,11 +104,11 @@ Donc elle se déclare (Exemple dans prototype.htm) dans une balise :
 (Les couleurs peuvent être défini par leurs équivalent en anglais : rouge -> red)
 
 Blanc : #ffffff <br/>
-Noir : #000000
-Rouge : #ff0000
-Bleu : #0000ff
-Vert : #00ff00
-jaune : #ffff00
+Noir : #000000 <br/>
+Rouge : #ff0000 <br/>
+Bleu : #0000ff <br/>
+Vert : #00ff00 <br/>
+jaune : #ffff00 <br/>
 
 <h1> 1.4.2 Appliquer un style </h1>
 
