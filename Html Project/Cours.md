@@ -20,7 +20,7 @@ Quelque soit le site, quelque soit le project, un scrypt Html se compose toujour
 
 . <Head></Head> -> Cette balise permet de déclarer la tête du scrypt !
 
-. <Title></Title>
+. "<Title></Title>" -> Ce balise permet de définir le titre de la page !
 
 . <Body></Body> -> Cette balise permet de déclarer le corps du scrypt donc les composants visibles sur le site !
  
