@@ -115,7 +115,7 @@ jaune : #ffff00 <br/>
 Il est possible d'affecter et de définir un style sur l'ensemble d'une section avec cette fois-ci une balise style complète : "style".
 Donc, on définit la section qui aura le style choisi. Si on veut que cela soit tous les paragraphes, on met ce qui suit dans le head :
 
-"style = "text/css"
+"style = "text/css" <br/>
 P { <br/>
    color : blue; <br/>
    }
