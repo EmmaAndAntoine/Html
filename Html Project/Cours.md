@@ -18,7 +18,7 @@ Quelque soit le site, quelque soit le project, un scrypt Html se compose toujour
 
 . "<Doctype Html!>" -> Cette balise indique que le scrypt sera en Html ! 
 
-. "<Head></Head>" -> Cette balise permet de déclarer la tête du scrypt !
+. "<Head>;</Head>" -> Cette balise permet de déclarer la tête du scrypt !
 
 . "<Title></Title>" -> Ce balise permet de définir le titre de la page !
 
