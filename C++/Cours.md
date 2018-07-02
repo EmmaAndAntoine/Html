@@ -20,5 +20,5 @@ bibliothèque déja toutes prêtes.
 <h1>1.1 Les variables</h1>
 
 En C++, les variables et contrairement a ce que l'on a pu dire, ne varie pas forcement. Imaginons qu'un mot de passe soit défini sur une
-variable. Si le mot de passe est le même, la variable ne varie pas. C'est une erreur de dire 
+variable. Si le mot de passe est le même, la variable ne varie pas. C'est une erreur de dire qu'elle varient tous le temps.
 
