@@ -30,11 +30,12 @@ Quelque soit le site, quelque soit le project, un scrypt Html se compose toujour
 
 . "<Doctype Html!>" -> Cette balise indique que le scrypt sera en Html ! 
 
-. "<Head>" -> Cette balise permet de déclarer la tête du scrypt !
+. "Head" -> Cette balise permet de déclarer la tête du scrypt ! Dans ce cours elle n'a pas de chevron pour éviter certaines
+erreurs mais elle doivent obligatoirement lors de l'écriture d'un scrypt avoir des chevron !
 
 . "<Title>" -> Ce balise permet de définir le titre de la page !
 
-. "<Body>" -> Cette balise permet de déclarer le corps du scrypt donc les composants visibles sur le site !
+. "Body" -> Cette balise permet de déclarer le corps du scrypt donc les composants visibles sur le site ! Dans ce cours elle n'a pas de chevron pour éviter certaines erreurs mais elle doivent obligatoirement lors de l'écriture d'un scrypt avoir des chevron !
  
  Ces constituants sont obligatoire pour le bon fonctionnement du scrypt ! Il ne faut bien sur pas oublier de nommer le scrypt avec
  l'extansion .htm qui permet de faire reconnaitre au navigateur qu'il s'agit d'un scrypt html !
