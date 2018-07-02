@@ -110,7 +110,21 @@ Bleu : #0000ff <br/>
 Vert : #00ff00 <br/>
 jaune : #ffff00 <br/>
 
-<h1> 1.4.2 Appliquer un style </h1>
+<h1> 1.4.2 Appliquer un style sur tout une section</h1>
+
+Il est possible d'affecter et de définir un style sur l'ensemble d'une section avec cette fois-ci une balise style complète : "style".
+Donc, on définit la section qui aura le style choisi. Si on veut que cela soit tous les paragraphes, on met ce qui suit dans le head :
+
+"style"
+P {
+   color : blue;
+   }
+   
+Le cours sur le style n'est pas terminer mais on reviendra dessus lors du chapitre 2 sur le CSS.
+
+
+
+
 
 
 
