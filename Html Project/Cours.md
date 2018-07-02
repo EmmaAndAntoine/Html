@@ -91,7 +91,34 @@ pour le style (les exemples sont dans prototype.htm) :
 
 <h1> 1.4.1 La balise style </h1>
 
-Même si elle ne permet pas de tout contrôler elle fait quand même beaucoup pour améilorer le style et la mise en page du texte
+Même si elle ne permet pas de tout contrôler elle fait quand même beaucoup pour améilorer le style et la mise en page du texte. Par
+rapport au CSS elle est parfaite car même si elle n'a pas toutes les qualités de ce langage, ce qu'elle fait est quand même fou !
+Donc elle se déclare (Exemple dans prototype.htm) dans une balise :
+
+"body "style = "background-color : #ffffff"" -> Ici on demande a ce que l'arrière plan soit blanc même si c'est la couleur de base.
+
+."p style = "color : #FF0000"" -> Ici le texte sera en rouge.
+
+<en> Il existe plusieurs couleurs possible :</en>
+
+(Les couleurs peuvent être défini par leurs équivalent en anglais : rouge -> red)
+
+Blanc : #ffffff
+Noir : #000000
+Rouge : #ff0000
+Bleu : #0000ff
+Vert : #00ff00
+jaune : #ffff00
+
+<h1> 1.4.2 Appliquer un style </h1>
+
+
+
+ 
+ 
+ 
+ 
+ 
  
  
  
