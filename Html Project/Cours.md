@@ -116,7 +116,7 @@ Il est possible d'affecter et de définir un style sur l'ensemble d'une section 
 Donc, on définit la section qui aura le style choisi. Si on veut que cela soit tous les paragraphes, on met ce qui suit dans le head :
 
 "style"
-P {
+P { <br/>
    color : blue; <br/>
    }
    
