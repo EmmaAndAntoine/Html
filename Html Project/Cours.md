@@ -68,6 +68,15 @@ Quelque soit le site, quelque soit le project, un scrypt Html se compose toujour
  
  . "br" -> Cette balise oblige un retour à la ligne (Exemple dans prototype.htm).
  
+ <h1> 1.3.1 Faire une liste<h1/>
+ 
+ Il est possible de réaliser une liste avec plusieurs point et cela avec deux balises (Exemple dans prototype.htm) :
+ 
+ . "ul" -> Cette balise déclare une liste.
+ 
+ . "li" -> Cette balise déclare un premier point. Entre les balises d'ouverture et de fermeture, le texte doit être écris pour le 
+ premier point.
+ 
 <h1> 1.4 Le Style en Html</h1>
 
 En html, il est possible d'appliquer un style à notre texte sans des langages annexes comme CSS qui est spécialment crée pour le style
