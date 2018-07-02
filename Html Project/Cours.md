@@ -6,6 +6,14 @@ a jour avec de nouvelles choses ! Bon codage !
 
 // Attention ce cours n'est fait que pour le Html !
 
+# 0.1
+
+Légendes du cours :
+
+Quand tu vois ca : "" ->  Il n'y a pas de chevron pour éviter certaines
+erreurs mais elle doivent obligatoirement lors de l'écriture d'un scrypt avoir des chevron.
+
+
 # 1.0 : Le Html
 
 Le html est l'acronyme de HyperText Markup Language est un langage informatique qui permet de concevoir un site internet a partir d'un
@@ -30,13 +38,11 @@ Quelque soit le site, quelque soit le project, un scrypt Html se compose toujour
 
 . "<Doctype Html!>" -> Cette balise indique que le scrypt sera en Html ! 
 
-. "Head" -> Cette balise permet de déclarer la tête du scrypt ! Dans ce cours elle n'a pas de chevron pour éviter certaines
-erreurs mais elle doivent obligatoirement lors de l'écriture d'un scrypt avoir des chevron.
+. "Head" -> Cette balise permet de déclarer la tête du scrypt ! 
 
 . "<Title>" -> Ce balise permet de définir le titre de la page !
 
-. "Body" -> Cette balise permet de déclarer le corps du scrypt donc les composants visibles sur le site ! Dans ce cours elle n'a pas de
-chevron pour éviter certaines erreurs mais elle doivent obligatoirement lors de l'écriture d'un scrypt avoir des chevron !
+. "Body" -> Cette balise permet de déclarer le corps du scrypt donc les composants visibles sur le site !
  
  Ces constituants sont obligatoire pour le bon fonctionnement du scrypt ! Il ne faut bien sur pas oublier de nommer le scrypt avec
  l'extansion .htm qui permet de faire reconnaitre au navigateur qu'il s'agit d'un scrypt html !
@@ -59,6 +65,10 @@ chevron pour éviter certaines erreurs mais elle doivent obligatoirement lors de
  
  ."h1" jusqu'a "h5" -> Ces balises permettent d'afficher un titre à l'écran. Selon les balises (h1, h2, h3), la police sera de plus en 
  plus petites.
+ 
+ . "p" -> Cette balise permet d'afficher n'importe quel texte à l'écran. Il est essentiel à l'affichage de texte. 
+ 
+ . "br" -> Cette balise oblige un retour à la ligne (Exemple dans prototype).
 
  
  
