@@ -68,7 +68,17 @@ Quelque soit le site, quelque soit le project, un scrypt Html se compose toujour
  
  . "br" -> Cette balise oblige un retour à la ligne (Exemple dans prototype.htm).
  
-<h1>Le Style en Html</h1>
+<h1> 1.4 Le Style en Html</h1>
+
+En html, il est possible d'appliquer un style à notre texte sans des langages annexes comme CSS qui est spécialment crée pour le style
+mais nous verrons se langage dans le prochain chapitre de ce cours. Donc comme il existe des balises d'écriture, il existe des balises
+pour le style (les exemples sont dans prototype.htm) :
+
+. "strong" -> Cette balise permet de mettre le texte en gras.
+
+. "en"-> Cette balise permet de mettre un texte en italique.
+
+. "mark" -> Cette balise permet de surligner un texte en gras.
 
  
  
