@@ -117,7 +117,7 @@ Donc, on définit la section qui aura le style choisi. Si on veut que cela soit 
 
 "style"
 P {
-   color : blue;
+   color : blue; <br/>
    }
    
 Le cours sur le style n'est pas terminer mais on reviendra dessus lors du chapitre 2 sur le CSS.
