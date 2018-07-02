@@ -89,7 +89,9 @@ pour le style (les exemples sont dans prototype.htm) :
 
 . "mark" -> Cette balise permet de surligner un texte en jaune.
 
-. 
+<h1> 1.4.1 La balise style </h1>
+
+Même si elle ne permet pas de tout contrôler elle fait quand même beaucoup pour améilorer le style et la mise en page du texte
  
  
  
