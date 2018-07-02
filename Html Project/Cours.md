@@ -57,7 +57,8 @@ chevron pour éviter certaines erreurs mais elle doivent obligatoirement lors de
  réciproquement très rapidement. Certaines balises sont essentiels pour pouvoir afficher du texte à l'écran. Comme dans tous les
  langages, nous n'avons pas besoin de taper les balises en basique (0 et 1). il faut utiliser quelque balise :
  
- ."<h1>"
+ ."h1" jusqu'a "h5" -> Ces balises permettent d'afficher un titre à l'écran. Selon les balises (h1, h2, h3), la police sera de plus en 
+ plus petites.
 
  
  
