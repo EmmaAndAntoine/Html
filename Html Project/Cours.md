@@ -103,7 +103,7 @@ Donc elle se déclare (Exemple dans prototype.htm) dans une balise :
 
 (Les couleurs peuvent être défini par leurs équivalent en anglais : rouge -> red)
 
-Blanc : #ffffff
+Blanc : #ffffff <br/>
 Noir : #000000
 Rouge : #ff0000
 Bleu : #0000ff
